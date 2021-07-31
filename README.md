@@ -1,1 +1,1 @@
-# stata_index
+# 泰尔指数
